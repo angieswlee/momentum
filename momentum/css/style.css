@@ -1,0 +1,12 @@
+.hidden {
+    display: none;
+}
+
+#quote {
+    margin-top: 30px;
+}
+
+img {
+    border: none;
+    width: 100%;
+}
